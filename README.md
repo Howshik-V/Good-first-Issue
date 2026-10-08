@@ -180,7 +180,7 @@ Now that you know the workflow, you can contribute to ANY project on GitHub! Loo
 
 Want to help improve this project? Here are ways to contribute:
 
-- 📝 Improve documentation clarity
+- 📝 Improve documentation clarity and readability
 - 🌍 Translate to other languages
 - 🐛 Fix typos or broken links
 - 💡 Suggest improvements via issues
